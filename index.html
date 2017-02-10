@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Vedang Acharya</title>
+	<link rel="stylesheet" type="text/css" href="resume_style.css?v=<?php echo $timestamp;?">
+	<link href="https://fonts.googleapis.com/css?family=Maven+Pro|Muli|Work+Sans|Open+Sans+Condensed:300" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<script type="text/javascript" src="jquery.js"></script>
+</head>
+<body>
+<div class="main">	
+	<div class="left">
+		<div class="intro">	
+			<div class="intro--content">
+				<div class="self--image">
+					<img src="resume_left_backg.png">
+				</div>				
+				<div class= "name">Hello, I'm Vedang</div>
+				<div class= "description">learning Web Development<br>studying at National Institute of Technology Goa</div>
+				<div class= "connect">
+					<ul>
+						<li><a href="https://www.linkedin.com/in/vedang-acharya-103596102" target="_blank"><i class="fa fa-linkedin-square"></i></a></li>
+						<li><a href="https://github.com/vedang-27" target="_blank"><i class="fa fa-github"></i></a></li>
+						<li><a href="https://www.instagram.com/vedang.a/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+					</ul>
+				</div>
+			</div>	
+		</div>	
+	</div>
+	<div class="right">
+		<div class="right--data">	
+			<div class="specifics">
+				<div class="heading">ME</div>
+				<div class="about">Hi! I'm Vedang Acharya. I'm a sophomore at National Institute of Technology Goa. I'm fairly familiar with <span class="highlight">HTML</span> and <span class="highlight">CSS</span> and currently working on my <span class="highlight">Javascript</span> and <span class="highlight">JQuery</span> skills. This Github page is an effort to showcase whatever I have learnt till now.</div>
+			</div>
+			<div class="specifics">
+				<div class="heading">INTERESTS</div>
+				<div class="about">I like learning new things. I'm interested in doing <span class="highlight">freelance web development</span> projects.<br> I'm also an avid quizzer. I manage the <span><a href="http://quantanitg.blogspot.in" target="_blank">blog</a></span> for Quanta- the quiz club I co-founded at NIT Goa.</div>
+			</div>
+			<div class="specifics">
+				<div class="heading">PROJECTS</div>
+				<div class="about"><p class="subheading">PORTABLE SOLAR CHARGER</p> I developed a Portable Solar Charger capable of charging electronics
+appliances like cellphones. I Used a 10 Volts and 3 Watts Solar Panel, a 2800
+mAh Power Bank and a 7805 regulator chip.</div>
+			</div>
+			<div class="specifics">
+				<div class="heading">INTERNSHIPS</div>
+				<div class="about"><p class="subheading">LEIANSIS</p><p class="timeline">Dec 2016-Jan 2017</p><p class="timeline">Goa,India</p>I created a short animated <span><a href="https://www.facebook.com/mysmartmove.in/videos/" target="_blank">video</a></span> for a start-up to be used for marketing on social media platforms like Facebook and Instagram.</div>
+			</div>
+			<div class="specifics">
+				<div class="heading">CONTACT</div>
+				<div class="about">
+					<p class="subheading"><i class="fa fa-envelope" aria-hidden="true"></i></p><p class="timeline">vedang1234@gmail.com</p>
+					<p class="subheading"><i class="fa fa-phone" aria-hidden="true"></i></p><p class="timeline">+91 7030511545</p>
+				</div>
+		</div>		
+	</div>
+</div>	
+<script type="text/javascript">
+	$('.intro').css('display','none');
+	$('.right--data').css('display','none');
+	$(document).ready(function(){
+		$('.left').css('min-height', $(window).innerHeight());
+		$(window).resize(function(){
+			$('.left').css('min-height', $(window).innerHeight());
+		});
+		$('.intro').slideDown(800);
+		$('.right--data').delay(800).fadeIn(400);
+		
+	})
+</script>	
+</body>
+</html>
