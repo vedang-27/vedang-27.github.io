@@ -106,7 +106,7 @@
 	font-size: 0.8em;
 	color: rgba(0,0,0,0.8);
 }
-@media (max-width: 768px){
+@media (max-width: 1000px){
 	.main{
 		display: block!important;
 	}
@@ -119,15 +119,18 @@
 		width: 100%;
 	}
 	.name{
-		font-size: 1.25em;
+		font-size: 3em;
+	}
+	.connect ul li{
+		font-size: 3em;
 	}
 	.description{
-		font-size: 1em;
+		font-size: 3em;
 	}
 	.heading{
-		font-size: 0.9em;
+		font-size: 4em;
 	}
 	.about{
-		font-size: 0.8em;
+		font-size: 3em;
 	}
 }
