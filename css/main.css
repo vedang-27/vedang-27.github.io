@@ -119,18 +119,18 @@
 		width: 100%;
 	}
 	.name{
-		font-size: 3em;
+		font-size: 1em;
 	}
 	.connect ul li{
-		font-size: 3em;
+		font-size: 1em;
 	}
 	.description{
-		font-size: 3em;
+		font-size: 1em;
 	}
 	.heading{
-		font-size: 3em;
+		font-size: 1em;
 	}
 	.about{
-		font-size: 3em;
+		font-size: 1em;
 	}
 }
