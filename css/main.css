@@ -48,13 +48,16 @@
 	padding: 2%;
 	color: white;
 }
+.connect{
+	padding: 2% 0 0 0;
+}
 .connect ul{
 	-webkit-padding-start: 0;
 }
 .connect ul li{
 	display: inline;
 	font-size: 1.5em;
-	padding: 3%;
+	padding: 0 3% 0 3%;
 }
 .connect ul li a{
 		color: white;
