@@ -54,7 +54,7 @@
 .connect ul li{
 	display: inline;
 	font-size: 1.5em;
-	padding: 10%;
+	padding: 3%;
 }
 .connect ul li a{
 		color: white;
@@ -124,6 +124,7 @@
 	}
 	.connect ul li{
 		font-size: 1.25em;
+		
 	}
 	.description{
 		font-size: 1em;
