@@ -53,6 +53,8 @@
 }
 .connect ul{
 	-webkit-padding-start: 0;
+	-moz-padding-start: 0;
+
 }
 .connect ul li{
 	display: inline;
