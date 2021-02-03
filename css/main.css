@@ -27,9 +27,6 @@
 	background-image: url("/left_backg.jpg");
 	background-size: cover;
 	position: absolute;
-	background-repeat: no-repeat;
-  	background-attachment: fixed;
-  	background-position: center;
 }
 .intro--content{
 	width: 100%;
