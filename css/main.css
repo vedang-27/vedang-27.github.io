@@ -40,13 +40,19 @@
 	border-radius: 10%;
 }
 .name{
-		font-family: 'Montserrat', sans-serif;
+		font-family: 'Paytone One', sans-serif;
 		font-size: 2.5em;
 		padding: 2% 0 0 0;
 		color: white;
+	background-image: url("/left_backg.jpg");
+	background-size: 100%;
+    	-webkit-background-clip: text;
+    	-moz-background-clip: text;
+    	-webkit-text-fill-color: transparent; 
+    	-moz-text-fill-color: transparent;
 }
 .description{
-	font-family: 'Paytone One', sans-serif;
+	
 	font-size: 1.25em;
 	padding: 2%;
 	color: white;
