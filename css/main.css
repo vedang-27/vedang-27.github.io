@@ -87,8 +87,8 @@
 	font-family: 'Fjalla One', sans-serif;
 	font-weight: bold;
 	margin-bottom: 2%;
-	background-color: #3a5007;
-    	background-image: linear-gradient(45deg, #c53242, #3a5007);
+	background-color: rgba(116,144,47,255);
+    	background-image: linear-gradient(45deg, rgba(192,62,96,255), rgba(116,144,47,255));
     	background-size: 100%;
     	-webkit-background-clip: text;
     	-moz-background-clip: text;
