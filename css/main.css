@@ -66,11 +66,6 @@
 	font-size: 4.5em;
 	padding: 2% 0 0 0;
 	color: white;
-	background-size: 100%;
-    	-webkit-background-clip: text;
-    	-moz-background-clip: text;
-    	-webkit-text-fill-color: transparent; 
-    	-moz-text-fill-color: transparent;
 }
 .connect{
 	padding: 2% 0 0 0;
