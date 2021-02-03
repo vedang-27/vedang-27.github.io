@@ -25,7 +25,7 @@
 	text-align: center;
 	background-color: rgba(0,0,0,0.9);
 	background-image: url("/left_backg.jpg");
-	background-size: cover;
+	background-size: contain;
 	position: absolute;
 }
 .intro--content{
