@@ -24,8 +24,8 @@
 	flex-direction: column;
 	text-align: center;
 	background-color: rgba(0,0,0,0.9);
-	background-image: linear-gradient(45deg, rgba(192,62,96,255), rgba(116,144,47,255));
-	background: -webkit-linear-gradient(45deg, rgba(192,62,96,255), rgba(116,144,47,255));
+	background-image: linear-gradient(45deg, #FF751A 50%, #FFC61A  100%);
+	background: -webkit-linear-gradient(45deg,#FF751A  50%, #FFC61A  100%);
 	background-repeat: no-repeat;
 	background-size: auto;
 	position: absolute;
@@ -46,16 +46,16 @@
 		color: white;
 	background-image: linear-gradient(
         45deg,
-        #CA4246 16.666%, 
-        #E16541 16.666%, 
-        #E16541 33.333%, 
-        #F18F43 33.333%, 
+        #CA4246 10%, 
+        #E16541 10%, 
+        #E16541 25%, 
+        #F18F43 26%, 
         #F18F43 50%, 
         #8B9862 50%, 
-        #8B9862 66.666%, 
-        #476098 66.666%, 
-        #476098 83.333%, 
-        #A7489B 83.333%);
+        #8B9862 75%, 
+        #476098 75%, 
+        #476098 90%, 
+        #A7489B 90%);
 	background-size: 100%;
     	-webkit-background-clip: text;
     	-moz-background-clip: text;
@@ -98,7 +98,6 @@
 .heading{
 	font-size: 1.05em;
 	font-family: 'Paytone One', sans-serif;
-	font-weight: bold;
 	margin-bottom: 2%;
 	color: rgba(116,144,47,255);
     	background-image: linear-gradient(
