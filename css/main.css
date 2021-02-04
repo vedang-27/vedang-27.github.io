@@ -105,11 +105,12 @@
 }
 .heading{
 	font-size: 1.05em;
-	font-family: 'Londrina Solid', cursive;
+	font-family: 'Roboto', sans-serif;
 	font-style: italic;
+	font-weight: bold;
 	margin-bottom: 2%;
 	color: #CCCCCC;
-    	background-image: linear-gradient(45deg,#F891A 10%, #F76C6C 20%);
+    	background-image: linear-gradient(30deg,#F8E91A 10%, #F76C6C 20%);
 	background-size: 100%;
     	-webkit-background-clip: text;
     	-moz-background-clip: text;
