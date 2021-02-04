@@ -93,7 +93,7 @@
 	right: 0;
 }
 .right--data{
-	background-color: #000000;
+	background-color: #25274D;
 }
 .specifics{
 	display: flex;
@@ -124,7 +124,7 @@
 }
 .about{
 	font-size: 0.9em;
-	color: #E6E6E6;
+	color: #AAABB8;
 	font-family: 'Muli', sans-serif;
 	line-height: 175%;
 }
