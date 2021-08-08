@@ -1,7 +1,7 @@
 entries:
-	- title: me
-		url: /me
-	- title blog
-		url: /blog
-		
-		
+  - title: me
+    entries:
+      - title: me
+        url: /me
+      - title: blog
+        url: /blog
