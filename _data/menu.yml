@@ -1,10 +1,10 @@
 entries:
   - title: me
-      url: /me
+    url: /me
   - title: blog
-      url: /blog
+    url: /blog
   - title: email
-      url: mailto:vedang1234@gmail.com
+    url: mailto:vedang1234@gmail.com
       
         
      
