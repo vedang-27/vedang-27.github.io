@@ -1,3 +1,6 @@
 entries:
-  - title: thoughts
-    post_list: true
+	- title: me
+		url: /me
+
+	- title blog
+		url: /blog
