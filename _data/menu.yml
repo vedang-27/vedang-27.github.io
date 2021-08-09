@@ -5,6 +5,8 @@ entries:
     url: /blog
   - title: email
     url: mailto:vedang1234@gmail.com
+  - title: thoughts
+    post_list: true
       
         
      
