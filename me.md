@@ -14,5 +14,5 @@ July 2015-May 2019
 Goa,India
 B.Tech Electrical and Electronics Engineering
 ## Interests
-I am fascinated by Indian classical music and learning music production. I post music on my [youtube account](https://www.youtube.com/channel/UC2T-MCBpTYnBXKoREgbOyPA).
+I am fascinated by Indian classical music and learning music production. I post music on my [youtube account](https://www.youtube.com/channel/UC2T-MCBpTYnBXKoREgbOyPA){:target="_blank"}.
 
