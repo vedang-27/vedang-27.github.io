@@ -7,11 +7,11 @@ Hi! I'm Vedang Acharya. I specialize in building REST APIs and microservices as 
 ### Billdesk
 July 2019-Feb 2022
 Mumbai, India
-Part of payments aggregator team. Helped in complete rewrite of the payment aggregator APIs with microservice based architecture.
+```Part of payments aggregator team. Helped in complete rewrite of the payment aggregator APIs with microservice based architecture.```
 ### Philips Research
 May 2018-July 2018
 Bengaluru, India
-Developed an internal research application in Java to analyze medical data. Technologies and Libraries worked on - Complex event processing, JBoss Drools
+```Developed an internal research application in Java to analyze medical data. Technologies and Libraries worked on - Complex event processing, JBoss Drools```
 ## Education
 ### National Institute of Technology Goa
 July 2015-May 2019
