@@ -18,7 +18,7 @@ Bengaluru, India \
 Developed an internal research application in Java to analyze medical data. Technologies and Libraries worked on - Complex event processing, JBoss Drools
 ## Education
 ### National Institute of Technology Goa
-July 2015-May 2019 \
+July 2015 - May 2019 \
 Goa,India \
 B.Tech Electrical and Electronics Engineering
 ## Interests
