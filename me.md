@@ -22,7 +22,7 @@ Hi! I'm Vedang Acharya. I am a Senior Software Engineer specializing in building
 **B.Tech Electrical and Electronics Engineering (2015 - 2019)** Graduated with a CGPA of 8.25.
 
 ## Resume
-<a href=/resume-vedang-acharya.pdf" target="_blank">download</a>.
+<a href=/resume-vedang-acharya.pdf" target="_blank">download</a>
 
 ---
 <small><i>Last updated: January 2026</i></small>
