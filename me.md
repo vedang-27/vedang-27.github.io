@@ -21,6 +21,6 @@ Developed an internal research application in Java to analyze medical data. Tech
 July 2015 - May 2019 \
 Goa,India \
 B.Tech Electrical and Electronics Engineering
-## Interests
-I am fascinated by Indian classical music and learning music production. I post music on my <a href="https://www.youtube.com/channel/UC2T-MCBpTYnBXKoREgbOyPA" target="_blank"> youtube account</a>.
+## Resume
+<a href="https://www.youtube.com/channel/UC2T-MCBpTYnBXKoREgbOyPA" target="_blank">/resume-vedang-acharya.pdf</a>.
 
