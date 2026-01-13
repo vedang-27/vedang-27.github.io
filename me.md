@@ -22,5 +22,5 @@ July 2015 - May 2019 \
 Goa,India \
 B.Tech Electrical and Electronics Engineering
 ## Resume
-<a href="https://www.youtube.com/channel/UC2T-MCBpTYnBXKoREgbOyPA" target="_blank">/resume-vedang-acharya.pdf</a>.
+<a href=/resume-vedang-acharya.pdf" target="_blank">download</a>.
 
