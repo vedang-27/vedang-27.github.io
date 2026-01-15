@@ -3,7 +3,7 @@ layout: page
 title: Me
 ---
 
-Hi! I'm Vedang Acharya. I am a Senior Software Engineer specializing in building scalable REST APIs and microservices using Java, Golang, and AWS.
+Hi! I'm Vedang Acharya. I am a Senior Software Engineer specializing in building scalable distibuted systems.
 
 ## Experience
 
